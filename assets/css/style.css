@@ -23,9 +23,7 @@ nav {
 	float: left;
 	padding: 20px;
 	background-color: #ffffff;
-	border: solid;
-	border-color: #dddddd;
-	border-width: 2px;
+	border: 2px solid #dddddd;
 	margin-top: 50px;
 	margin-left: 130px;
 	margin-bottom: 50px;
